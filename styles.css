@@ -14,6 +14,10 @@ mark{
 	width: 550px;
 }
 
+.container p{
+	color: white;
+}
+
 #main-heading {
 	background-color: cyan;
 	font-family: sans-serif;
