@@ -1,0 +1,20 @@
+body {
+	
+}
+
+mark{
+	background-color: lightblue;
+}
+.container{
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 1px;
+	width: 550px;
+}
+
+#main-heading {
+	background-color: cyan;
+	font-family: sans-serif;
+	font-size: 3em;
+}
