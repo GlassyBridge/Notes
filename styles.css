@@ -1,25 +1,24 @@
 body {
-	
+	background: linear-gradient(90deg,rgba(140, 213, 230, 1) 31%, rgba(151, 162, 230, 1) 100%);
+	color: #ffffff;
 }
 
 mark{
 	background-color: lightblue;
 }
+
 .container{
-	background-image: radial-gradient(red,green,blue);
+	background: radial-gradient(circle,rgba(157, 190, 237, 1) 18%, rgba(155, 188, 237, 1) 52%, rgba(104, 120, 222, 1) 100%);
 	border: 1px solid black;
+	box-shadow: 0px 0px 5px 5px #444444;
 	border-radius: 10px;
 	padding: 10px;
 	margin: 1px;
 	width: 550px;
 }
 
-.container p{
-	color: white;
-}
-
 #main-heading {
-	background-color: cyan;
-	font-family: sans-serif;
+	background: radial-gradient(circle,rgba(232, 255, 224, 1) 6%, rgba(135, 243, 255, 1) 100%);
+	font-family: "Papayrus", fantasy;
 	font-size: 3em;
 }
