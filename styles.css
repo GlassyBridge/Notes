@@ -7,10 +7,14 @@ mark{
 	background-color: lightblue;
 }
 
+img {
+	border-radius: 14px;
+}
+
 .container{
 	background: radial-gradient(circle,rgba(157, 190, 237, 1) 18%, rgba(155, 188, 237, 1) 52%, rgba(104, 120, 222, 1) 100%);
 	border: 1px solid black;
-	box-shadow: 0px 0px 5px 5px #444444;
+	box-shadow: 0px 0px 5px 5px #eeeeee;
 	border-radius: 10px;
 	padding: 10px;
 	margin: 1px;
@@ -19,6 +23,9 @@ mark{
 
 #main-heading {
 	background: radial-gradient(circle,rgba(232, 255, 224, 1) 6%, rgba(135, 243, 255, 1) 100%);
+	border-radius: 10px;
+	width: 650px;
 	font-family: "Papayrus", fantasy;
-	font-size: 3em;
+	color: #000000;
+	font-size: 2em;
 }
